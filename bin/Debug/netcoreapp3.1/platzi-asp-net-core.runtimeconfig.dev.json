@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\evaldes\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\evaldes\\.nuget\\packages"
+    ]
+  }
+}
