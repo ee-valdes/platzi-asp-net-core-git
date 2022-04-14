@@ -1,5 +1,5 @@
 {
-  "FilePath": "e:\\EEV\\Cursos\\Platzi\\NetCore\\platzi-asp-net-core\\platzi-asp-net-core.csproj",
+  "FilePath": "c:\\DATOS\\EV\\CURSOS\\PLATZI\\ASP.Net Core\\platzi-asp-net-core-git\\platzi-asp-net-core.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14402,78 +14402,78 @@
   "RootNamespace": "platzi_asp_net_core",
   "Documents": [
     {
-      "FilePath": "e:\\EEV\\Cursos\\Platzi\\NetCore\\platzi-asp-net-core\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\EEV\\Cursos\\Platzi\\NetCore\\platzi-asp-net-core\\Views\\Home\\Index.cshtml",
+      "FilePath": "c:\\DATOS\\EV\\CURSOS\\PLATZI\\ASP.Net Core\\platzi-asp-net-core-git\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "e:\\EEV\\Cursos\\Platzi\\NetCore\\platzi-asp-net-core\\Views\\Home\\Privacy.cshtml",
+      "FilePath": "c:\\DATOS\\EV\\CURSOS\\PLATZI\\ASP.Net Core\\platzi-asp-net-core-git\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "e:\\EEV\\Cursos\\Platzi\\NetCore\\platzi-asp-net-core\\Views\\Escuela\\Index.cshtml",
-      "TargetPath": "Views\\Escuela\\Index.cshtml",
+      "FilePath": "c:\\DATOS\\EV\\CURSOS\\PLATZI\\ASP.Net Core\\platzi-asp-net-core-git\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "e:\\EEV\\Cursos\\Platzi\\NetCore\\platzi-asp-net-core\\Views\\Asignatura\\Index.cshtml",
-      "TargetPath": "Views\\Asignatura\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\EEV\\Cursos\\Platzi\\NetCore\\platzi-asp-net-core\\Views\\Alumno\\Index.cshtml",
-      "TargetPath": "Views\\Alumno\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\EEV\\Cursos\\Platzi\\NetCore\\platzi-asp-net-core\\Views\\Alumno\\MultiAlumno.cshtml",
-      "TargetPath": "Views\\Alumno\\MultiAlumno.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\EEV\\Cursos\\Platzi\\NetCore\\platzi-asp-net-core\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\EEV\\Cursos\\Platzi\\NetCore\\platzi-asp-net-core\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\EEV\\Cursos\\Platzi\\NetCore\\platzi-asp-net-core\\Views\\Shared\\ListaObjetoEscuela.cshtml",
-      "TargetPath": "Views\\Shared\\ListaObjetoEscuela.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\EEV\\Cursos\\Platzi\\NetCore\\platzi-asp-net-core\\Views\\Shared\\Simple.cshtml",
+      "FilePath": "c:\\DATOS\\EV\\CURSOS\\PLATZI\\ASP.Net Core\\platzi-asp-net-core-git\\Views\\Shared\\Simple.cshtml",
       "TargetPath": "Views\\Shared\\Simple.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "e:\\EEV\\Cursos\\Platzi\\NetCore\\platzi-asp-net-core\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\EEV\\Cursos\\Platzi\\NetCore\\platzi-asp-net-core\\Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\DATOS\\EV\\CURSOS\\PLATZI\\ASP.Net Core\\platzi-asp-net-core-git\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "e:\\EEV\\Cursos\\Platzi\\NetCore\\platzi-asp-net-core\\Views\\Shared\\ObjetoEscuelaSimple.cshtml",
+      "FilePath": "c:\\DATOS\\EV\\CURSOS\\PLATZI\\ASP.Net Core\\platzi-asp-net-core-git\\Views\\Shared\\ObjetoEscuelaSimple.cshtml",
       "TargetPath": "Views\\Shared\\ObjetoEscuelaSimple.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "e:\\EEV\\Cursos\\Platzi\\NetCore\\platzi-asp-net-core\\Views\\Asignatura\\MultiAsignatura.cshtml",
+      "FilePath": "c:\\DATOS\\EV\\CURSOS\\PLATZI\\ASP.Net Core\\platzi-asp-net-core-git\\Views\\Alumno\\Index.cshtml",
+      "TargetPath": "Views\\Alumno\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\DATOS\\EV\\CURSOS\\PLATZI\\ASP.Net Core\\platzi-asp-net-core-git\\Views\\Escuela\\Index.cshtml",
+      "TargetPath": "Views\\Escuela\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\DATOS\\EV\\CURSOS\\PLATZI\\ASP.Net Core\\platzi-asp-net-core-git\\Views\\Asignatura\\Index.cshtml",
+      "TargetPath": "Views\\Asignatura\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\DATOS\\EV\\CURSOS\\PLATZI\\ASP.Net Core\\platzi-asp-net-core-git\\Views\\Alumno\\MultiAlumno.cshtml",
+      "TargetPath": "Views\\Alumno\\MultiAlumno.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\DATOS\\EV\\CURSOS\\PLATZI\\ASP.Net Core\\platzi-asp-net-core-git\\Views\\Asignatura\\MultiAsignatura.cshtml",
       "TargetPath": "Views\\Asignatura\\MultiAsignatura.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\DATOS\\EV\\CURSOS\\PLATZI\\ASP.Net Core\\platzi-asp-net-core-git\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\DATOS\\EV\\CURSOS\\PLATZI\\ASP.Net Core\\platzi-asp-net-core-git\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\DATOS\\EV\\CURSOS\\PLATZI\\ASP.Net Core\\platzi-asp-net-core-git\\Views\\Shared\\ListaObjetoEscuela.cshtml",
+      "TargetPath": "Views\\Shared\\ListaObjetoEscuela.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\DATOS\\EV\\CURSOS\\PLATZI\\ASP.Net Core\\platzi-asp-net-core-git\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     }
   ],
